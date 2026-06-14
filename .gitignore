@@ -1,0 +1,26 @@
+# Локальные веса модели (~21 ГБ) — НЕ коммитить
+Qwen3-VL-30B-A3B-Instruct-MLX-5bit/
+
+# Виртуальное окружение
+lc-academy-env/
+venv/
+.venv/
+
+# Архив курса
+langchain-academy-main.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Секреты / окружение
+.env
+*.env
+
+# LangGraph dev артефакты
+.langgraph_api/
+
+# Системное
+.DS_Store
